@@ -4,7 +4,7 @@
   var widgetSize = 0;
   var widgetMainBg = "d5bdaf";
   var widgetText = "450920";
-  var widgetBorder = "1";
+  var widgetBorder = "2";
   var widgetStyle = "outset";
   var widgetRadius = "12";
   var widgetGmtBg = "fdf0d5";
